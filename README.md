@@ -13,6 +13,6 @@ For this implemenation, we will use multiplication.
 
 
 The RSA and ElGamal keys are stored in keys.txt,
-The encrypted values are stored in encrypted_values.txt,
-The input variables are stored in input_variables.txt,
-The decrypted result is printed to the console.
+the encrypted values are stored in encrypted_values.txt,
+the input variables are stored in input_variables.txt,
+the decrypted result is printed to the console.
