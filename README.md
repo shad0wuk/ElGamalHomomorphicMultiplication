@@ -16,3 +16,10 @@ The RSA and ElGamal keys are stored in keys.txt,
 the encrypted values are stored in encrypted_values.txt,
 the input variables are stored in input_variables.txt,
 the decrypted result is printed to the console.
+
+
+Written by Kieran Cunningham 20017872.
+
+
+Reference: 
+Buchanan, W. J. (2024). ElGamal Homomorphic Multiplication with Python. Available at: https://asecuritysite.com/homomorphic/el_homomorphic01 (Accessed: 11 January 2024).
