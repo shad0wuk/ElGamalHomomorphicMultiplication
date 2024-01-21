@@ -2,6 +2,8 @@
 ELGamal Homomorphic Multiplication with RSA digital signatures, for Cryptography.
 
 
+Code found in main.py file.
+
 
 This code is for proof of concept of ElGamal homomorphic multiplication with RSA signature verification to ensure the result is correct.
 
