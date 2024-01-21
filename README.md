@@ -1,4 +1,4 @@
-# ElGamalHomomorphicMultiplication
+# ElGamal Homomorphic Multiplication
 ELGamal Homomorphic Multiplication with RSA digital signatures, for Cryptography.
 
 
