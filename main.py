@@ -9,7 +9,7 @@
 # the input variables are stored in input_variables.txt
 # the decrypted result is printed to the console
 
-# pip install crypto, pycryptodome, pycryptodomex
+# pip install pycryptodome
 from Crypto.PublicKey import RSA
 from Crypto.Signature import pkcs1_15
 from Crypto.Hash import SHA256
